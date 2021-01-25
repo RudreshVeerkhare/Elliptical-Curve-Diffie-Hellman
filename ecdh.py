@@ -80,7 +80,7 @@ if __name__ == "__main__":
     b = CURVE_REGESTERY["brainpoolP256r1"]["b"]
     g = Point(
             CURVE_REGESTERY["brainpoolP256r1"]["g"][0],
-            CURVE_REGESTERY["brainpoolP256r1"]["g"][0]
+            CURVE_REGESTERY["brainpoolP256r1"]["g"][1]
         )
 
 
